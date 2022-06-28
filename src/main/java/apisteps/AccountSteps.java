@@ -1,7 +1,6 @@
 package apisteps;
 
 import object.AccountReq;
-import object.Specifications;
 import pages.User;
 
 import static io.restassured.RestAssured.given;
